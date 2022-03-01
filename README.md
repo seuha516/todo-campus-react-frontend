@@ -10,8 +10,8 @@
 ## Update
 - 2022.02.15 첫 배포
 
-## FrontEnd
-- FrontEnd: _React_
+## Frontend
+- Frontend: _React_
 - 구현 기능:
   - 시간표 및 일정 관리
   - 체크리스트, 메모 기능
